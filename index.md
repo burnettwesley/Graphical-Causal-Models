@@ -2,6 +2,10 @@
 
 Material for the Burnett and Blackwell project that illustrates the use of graphical causal modeling, which is a visual representation of a researcher's qualitative assumptions for a particular empirical research project. Specifically, we use directed acyclic graphs as a framework to analyze cause-and-effect relationships. 
 
+## Manuscript Title
+
+An economist's primer to causal identification through graphical modeling
+
 ## Project Repository on Github
 The project's repository is located at [here.](https://github.com/burnettwesley/Graphical-Causal-Models)
 
