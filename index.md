@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Graphical Causal Modeling
 
-You can use the [editor on GitHub](https://github.com/burnettwesley/Graphical-Causal-Models/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Material for the Burnett and Blackwell project that illustrates the use of graphical causal modeling, which is a visual representation of a researcher's qualitative assumptions for a particular empirical research project. Specifically, we use directed acyclic graphs as a framework to analyze cause-and-effect relationships. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Repository on Github
+The project's repository is located at [here.](https://github.com/burnettwesley/Graphical-Causal-Models)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Manuscript Abstract
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+This paper offers an accessible discussion of graphical models and causal
+inference within empirical economics. More specifically, we examine the
+use of graphical causal models and the relation to potential outcomes. A
+graphical causal model is a visual representation of a researcher’s qualitative
+causal assumptions. Economists have been slow to adopt such models
+within applied research, but there is growing interest in using this framework
+to analyze cause-and-effect relationships. We offer an overview of how to
+use these graphical models for causal inference within economic research.
+To demonstrate this procedure, we explore an example from the economics
+literature using directed acyclic graphs to clearly delineate the model’s causal
+assumptions. Finally, we discuss the strengths and weaknesses of graphical
+causal models.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/burnettwesley/Graphical-Causal-Models/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Primary Investigator
+This project page is mainted by [J. Wesley Burnett.](https://burnettwesley.github.io)
